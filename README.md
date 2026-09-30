@@ -1,2 +1,4 @@
 # neston-releases-preprod
-Preprod builds of Neston app
+
+Internal preprod builds of BoosterMail Outlook add-in.
+For testing purposes only. Requires a valid BoosterMail license.
